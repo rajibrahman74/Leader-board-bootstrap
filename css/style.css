@@ -1,0 +1,21 @@
+
+.star-span > .fa-star {
+    font-size: 13px;
+}
+
+/* .duration {
+    display: flex;
+    align-items: center;
+    margin-left: 32px
+} */
+.duration > img {
+    height: 21px;
+    width: 21px;
+}
+.duration p {
+    font-weight: 600;
+    font-size: 14.6913px;
+    line-height: 20px;
+    color: #FF4A60;
+    margin-left: 6px;
+}
